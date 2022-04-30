@@ -17,3 +17,12 @@ Data Source [election_results.csv](https://github.com/Kwas45/Election_Analysis/b
 
 ## Analysis
 
+#### 1. Total Votes
+Total votes is initialized, printed to the terminal and saved to the text file. As seen below the total votes equaled 369,711.  
+
+![Initialize total vote](https://user-images.githubusercontent.com/102786356/166119664-181082a0-f682-4ee1-a78f-182166347361.png)
+![total vote print to terminal and saved to text file](https://user-images.githubusercontent.com/102786356/166119681-cdfbf911-f214-4686-8321-a652a4b5abb4.png)
+![total votes to terminal](https://user-images.githubusercontent.com/102786356/166119788-42901803-c9ab-4de1-b513-b0598e576f60.png)
+![total votes to text file](https://user-images.githubusercontent.com/102786356/166119792-6d5b49a5-d263-494d-9fe5-6992bb55c298.png)
+
+#### 2. County Votes and Percentages
