@@ -43,5 +43,8 @@ To get the county results an if statement is written to check that the county do
 ##### 4. Candidate Votes and Percentages
 To get the candidate results an if statement is written to check that the candidate does not match any existing candidate in the candidate list. A for loop is also initiated to get the candidate from the candidate dictionary. They results are printed to the terminal and saved to the file text. 
 
+![candidate if](https://user-images.githubusercontent.com/102786356/166121331-bb1b3e55-9ec5-4a07-a0b5-bae1bef3501a.png)
+![candidate for](https://user-images.githubusercontent.com/102786356/166121334-80e31afd-9bec-4f2e-9b6a-c579c5f06110.png)
+
 ##### 5. Winning Candidate
 
