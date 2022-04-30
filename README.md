@@ -13,4 +13,7 @@ The purpose of this project is to provide election audit results to the elction 
 
 
 ## Resources
-Data Source: 
+Data Source [election_results.csv](https://github.com/Kwas45/Election_Analysis/blob/main/Resources/election_results.csv)
+
+## Analysis
+
