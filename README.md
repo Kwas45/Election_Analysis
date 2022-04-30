@@ -31,7 +31,7 @@ Total votes is initialized below, printed to the terminal and saved to the text 
 
 
 ##### 2. County Votes and Percentages
-To get the county results an if statement is written to check that the county does not match any existing count in the county list. A for loop is also initiated to get the county from the country dictionary. They results are printed to the terminal and saved to the file text. 
+To get the county results an if statement is written to check that the county does not match any existing count in the county list. A for loop is also initiated to get the county from the county dictionary. They results are printed to the terminal and saved to the file text. 
 
 ![county code ](https://user-images.githubusercontent.com/102786356/166120263-d9768980-87e2-4204-be37-f7fa53fd25d0.png)
 ![county percentage](https://user-images.githubusercontent.com/102786356/166120857-8c648edd-5d46-4697-ac0c-0a58a3539993.png)
@@ -41,7 +41,7 @@ To get the county results an if statement is written to check that the county do
 
 
 ##### 4. Candidate Votes and Percentages
-
+To get the candidate results an if statement is written to check that the candidate does not match any existing candidate in the candidate list. A for loop is also initiated to get the candidate from the candidate dictionary. They results are printed to the terminal and saved to the file text. 
 
 ##### 5. Winning Candidate
 
