@@ -38,7 +38,9 @@ To get the county results an if statement is written to check that the county do
 
 
 ##### 3. County with Largest number of votes
+To get the county, which had the largest number of votes, an if statement is written to determine the winning county and get its vote count. 
 
+![image](https://user-images.githubusercontent.com/102786356/166121410-aa64a6b9-db37-47c6-bb3f-809415ee47f8.png)
 
 ##### 4. Candidate Votes and Percentages
 To get the candidate results an if statement is written to check that the candidate does not match any existing candidate in the candidate list. A for loop is also initiated to get the candidate from the candidate dictionary. They results are printed to the terminal and saved to the file text. 
